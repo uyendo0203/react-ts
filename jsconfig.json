@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "baseUrl": ".",
+      "target": "es6",
+      "paths": {
+        "@/axiosService": ["axiosServices"],
+        "@/hooks/*": ["src/hooks/*"],
+        "@/styles/*": ["src/styles/*"],
+        "@/redux/*": ["src/redux/*"],
+        "@/utils/*": ["src/utils/*"],
+      }
+    },
+  }
+  

@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'BaskervvilleRegular';
+    src: url('BaskervvilleRegular/BaskervvilleRegular.eot');
+    src: url('BaskervvilleRegular/BaskervvilleRegular.eot?#iefix') format('embedded-opentype'), url('BaskervvilleRegular/BaskervvilleRegular.woff2') format('woff2'), url('BaskervvilleRegular/BaskervvilleRegular.woff') format('woff'), url('BaskervvilleRegular/BaskervvilleRegular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'BaskervvilleItalic';
+    src: url('BaskervvilleItalic/BaskervvilleItalic.eot');
+    src: url('BaskervvilleItalic/BaskervvilleItalic.eot?#iefix') format('embedded-opentype'), url('BaskervvilleItalic/BaskervvilleItalic.woff2') format('woff2'), url('BaskervvilleItalic/BaskervvilleItalic.woff') format('woff'), url('BaskervvilleItalic/BaskervvilleItalic.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'RanuaTrialsBold';
+    src: url('RanuaTrialsBold/RanuaTrialsBold.eot');
+    src: url('RanuaTrialsBold/RanuaTrialsBold.eot?#iefix') format('embedded-opentype'), url('RanuaTrialsBold/RanuaTrialsBold.woff2') format('woff2'), url('RanuaTrialsBold/RanuaTrialsBold.woff') format('woff'), url('RanuaTrialsBold/RanuaTrialsBold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'RanuaTrialsMedium';
+    src: url('RanuaTrialsMedium/RanuaTrialsMedium.eot');
+    src: url('RanuaTrialsMedium/RanuaTrialsMedium.eot?#iefix') format('embedded-opentype'), url('RanuaTrialsMedium/RanuaTrialsMedium.woff2') format('woff2'), url('RanuaTrialsMedium/RanuaTrialsMedium.woff') format('woff'), url('RanuaTrialsMedium/RanuaTrialsMedium.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'RanuaTrialsRegular';
+    src: url('RanuaTrialsRegular/RanuaTrialsRegular.eot');
+    src: url('RanuaTrialsRegular/RanuaTrialsRegular.eot?#iefix') format('embedded-opentype'), url('RanuaTrialsRegular/RanuaTrialsRegular.woff2') format('woff2'), url('RanuaTrialsRegular/RanuaTrialsRegular.woff') format('woff'), url('RanuaTrialsRegular/RanuaTrialsRegular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'SkModernistBold';
+    src: url('SkModernistBold/SkModernistBold.eot');
+    src: url('SkModernistBold/SkModernistBold.eot?#iefix') format('embedded-opentype'), url('SkModernistBold/SkModernistBold.woff2') format('woff2'), url('SkModernistBold/SkModernistBold.woff') format('woff'), url('SkModernistBold/SkModernistBold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'SkModernistMono';
+    src: url('SkModernistMono/SkModernistMono.eot');
+    src: url('SkModernistMono/SkModernistMono.eot?#iefix') format('embedded-opentype'), url('SkModernistMono/SkModernistMono.woff2') format('woff2'), url('SkModernistMono/SkModernistMono.woff') format('woff'), url('SkModernistMono/SkModernistMono.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'SkModernistRegular';
+    src: url('SkModernistRegular/SkModernistRegular.eot');
+    src: url('SkModernistRegular/SkModernistRegular.eot?#iefix') format('embedded-opentype'), url('SkModernistRegular/SkModernistRegular.woff2') format('woff2'), url('SkModernistRegular/SkModernistRegular.woff') format('woff'), url('SkModernistRegular/SkModernistRegular.ttf') format('truetype');
+}
